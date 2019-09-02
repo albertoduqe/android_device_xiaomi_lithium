@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lithium.mk
+    $(LOCAL_DIR)/device.mk \
+    $(LOCAL_DIR)/omni_lithium.mk
